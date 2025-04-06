@@ -7,3 +7,5 @@ Ultimately, the controller was slightly heavier and larger than the initial goal
 Although the learning curve for the new controller was steeper than anticipated during testing, this result does not fully reflect real-world use. Compared to the old system, the new, more accessible and efficient controller has strong potential to reduce training time and improve operator confidence, especially once adapted into the robot arm. This the new design offers a promising path forward and better prepares the team for future URC editions.
 
 ![image](https://github.com/user-attachments/assets/045ecbe4-098f-41bf-9043-59e3bb340c51)
+
+Worked on by Ainsley Dalton, James Robinson, Caleb Chadwick, Shashank Ojha, Jose Ortiz Seba for 4th year capstone
